@@ -5,7 +5,7 @@ const app = electron.app;
 // Menu click functions
 
 
-// Menu template
+// Menu templatee
 const template = [
     // {
     //   // wont show until package electron app
